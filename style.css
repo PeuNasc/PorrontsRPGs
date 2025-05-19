@@ -1,4 +1,3 @@
-/* Regras gerais existentes */
 @import url('https://fonts.googleapis.com/css2?family=Uncial+Antiqua&family=Cinzel+Decorative:wght@400;700&display=swap');
 
 body {
@@ -150,7 +149,7 @@ img {
   margin: 0 auto;
 }
 
-/* Regras de responsividade */
+
 @media (max-width: 768px) {
   body {
     font-size: 90%;
