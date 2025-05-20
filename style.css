@@ -132,6 +132,7 @@ main {
   margin-top: 1rem;
   font-family: 'Georgia', serif;
   line-height: 1.6;
+  text-align: justify;
 }
 
 .sessao.open .conteudo-sessao {
